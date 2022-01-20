@@ -1,0 +1,18 @@
+.table-wrapper{
+	max-height: 50vh;
+	overflow: auto;
+/* 	display: inline-block; */
+
+}
+
+.sticky-header {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+	border-top: 0;
+	background: #ededed;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
